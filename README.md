@@ -1,2 +1,2 @@
 # TimeSeriesMethods
-Here I try to implement various time series forecasting methods overtie
+Here I am forecasting that I will apply some timeseries forecastings over time
